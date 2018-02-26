@@ -1,0 +1,12 @@
+{
+  "name": "i-am-devops-code",
+  "description": "Code for my devops learning project",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:atre/i-am-devops-code.git",
+  "author": "Nikita Geraschenko <mo0surf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
